@@ -13,7 +13,7 @@ website  link : https://opensource-demo.orangehrmlive.com/web/index.php/auth/log
 here i automation the functionality work on the orangehrm project
 
 >Login Functionality.
->adminpage Functionality.
+>Admin/User Management Functionality.
 >Logout Functionality
 ![image](https://github.com/santoshHkumbar/Evaluation_Submission_-santosh-./assets/172264565/3e3aabde-273b-436b-a71d-91d981d7b64f)
 
@@ -23,6 +23,12 @@ here i automation the functionality work on the orangehrm project
 ## Directory Structure
 springtoolsuit tool/ ├─ project exploser/ ├─ Elevation-2/-src/java/test
 
+##  dependencies  required for this project
+--TentNg(7.7.1)
+
+--seleniumwebdriver(3.141.59)
+
+--webdrivermanager(5.8.0)
 
 ## Feedback
 If you have any feedback, please reach out to me at Santoshkumbar081@gmail.com
