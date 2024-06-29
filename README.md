@@ -23,6 +23,12 @@ here i automation the functionality work on the orangehrm project
 ## Tech Stack used in this Project
 ![image](https://github.com/santoshHkumbar/Evaluation_Submission_-santosh-./assets/172264565/21540c36-0a58-4191-900b-94ac98fee857)
 
+![image](https://github.com/santoshHkumbar/Evaluation_Submission_-santosh-./assets/172264565/aa519955-8d6f-4ff1-a9b4-6a21036853e7)
+
+
+
+
+
 ## Directory Structure
 springtoolsuit tool/ ├─ project exploser/ ├─ Elevation-2/-src/java/test
 
