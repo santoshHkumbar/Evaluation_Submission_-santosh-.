@@ -30,7 +30,7 @@ here i automation the functionality work on the orangehrm project
 
 
 ## Directory Structure
-springtoolsuit tool/ ├─ project exploser/ ├─ Elevation-2/-src/java/test
+springtoolsuit tool/ ├─ project exploser/ ├─ Elevation-2/-src/java/test/-Orangehrmtesting
 
 ##  dependencies  required for this project
 --TentNg(7.7.1)
