@@ -13,8 +13,11 @@ website  link : https://opensource-demo.orangehrmlive.com/web/index.php/auth/log
 here i automation the functionality work on the orangehrm project
 
 >Login Functionality.
+
 >Admin/User Management Functionality.
+
 >Logout Functionality
+
 ![image](https://github.com/santoshHkumbar/Evaluation_Submission_-santosh-./assets/172264565/3e3aabde-273b-436b-a71d-91d981d7b64f)
 
 ## Tech Stack used in this Project
