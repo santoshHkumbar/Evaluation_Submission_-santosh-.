@@ -39,6 +39,16 @@ springtoolsuit tool/ ├─ project exploser/ ├─ Elevation-2/-src/java/test
 
 --webdrivermanager(5.8.0)
 
+
+##  Instructions to set up and run project : 
+    1)Open the Spring Tool Suites
+    2)Create a new project named Elevation-2
+    3)Create a package name oranghrm_project
+    4)Create a class named "Orangehrmtesting"
+    5)Type the selenium script 
+    6) Run as testNG
+
+
 ## Feedback
 If you have any feedback, please reach out to me at Santoshkumbar081@gmail.com
 
