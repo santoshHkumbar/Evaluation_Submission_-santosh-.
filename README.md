@@ -4,7 +4,7 @@
 # orangehrm-clone
 OrangeHRM offers a comprehensive HR management system to suit all of your business HR needs which can also be customized according to your requirements.
 
-## Application Under Test
+## Application for Test
 website  link : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 # Description of the project
